@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main {
+  background-color: rgb(9, 219, 37);
+  min-height: 98vh;
+  min-width: 98vh;
+}
